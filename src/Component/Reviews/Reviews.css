@@ -1,20 +1,15 @@
-.product {
+.twin-shop-container{
     display: flex;
-    border-bottom: 1px solid lightgray;
-    margin-right:10px;
-    padding: 5px;
-}
-.product-name {
-    margin-left: 20px;
     
-    font-weight: 700;
 }
-.product-name h4{
-    color: rgb(84, 84, 241);
+.twin-product-container{
+    width: 70%;
+    margin:0 20px 0 5px;
+    border-right: 1px solid gray;
 }
 .add-button-class{
     background-color: rgb(246, 203, 93);
-    width: 150px;
+    width: 200px;
     height: 38px;
     border: 1px solid darkgray;
     text-decoration: none;
@@ -22,5 +17,4 @@
     font-size: large;
     border-radius: 5px;
     cursor: pointer; 
-
 }
