@@ -21,3 +21,18 @@ nav a {
 nav a:hover {
     background-color: gray;
 }
+nav span {
+    color: white;
+    margin-right: 10px;
+}
+nav button {
+    font-size: 15px;
+    background-color: #fafafa;
+    border:none;
+    border-radius: 5px;
+   
+}
+nav button:hover {
+    cursor: pointer;
+    background-color:#5348eb;
+}
